@@ -1,0 +1,9 @@
+[submodule "extern/sdl"]
+	path = extern/sdl
+	url = https://github.com/MasterQ32/SDL.zig
+[submodule "extern/zig-bench"]
+	path = extern/zig-bench
+	url = https://github.com/Hejsil/zig-bench
+[submodule "extern/zgl"]
+	path = extern/zgl
+	url = https://github.com/ziglibs/zgl

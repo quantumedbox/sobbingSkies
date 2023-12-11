@@ -1,0 +1,11 @@
+**/*.exe
+**/*.dll
+**/*.so
+**/*.a
+**/*.o
+libs/
+zig-cache/
+zig-out/
+
+*.sublime-project
+*.sublime-workspace

@@ -1,0 +1,12 @@
+{
+  "x86-windows-gnu": {
+    "include": "libs/sdl2/windows/i686-w64-mingw32/include",
+    "libs": "libs/sdl2/windows/i686-w64-mingw32/lib",
+    "bin": "libs/sdl2/windows/i686-w64-mingw32/bin"
+  },
+  "x86_64-windows-gnu": {
+    "include": "libs/sdl2/windows/x86_64-w64-mingw32/include",
+    "libs": "libs/sdl2/windows/x86_64-w64-mingw32/lib",
+    "bin": "libs/sdl2/windows/x86_64-w64-mingw32/bin"
+  }
+}
